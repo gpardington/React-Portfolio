@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
-import Header from './Components/Header/index';
-import Footer from './Components/Footer/index';
-import About from './Components/About/index';
-import Resume from './Components/Resume/index';
-import Contact from './Components/Contact/index';
-import Testimonials from './Components/Testimonials/index';
-import Portfolio from './Components/Portfolio/index';
+import Header from './Components/Header/index.js';
+import Footer from './Components/Footer/index.js';
+import About from './Components/About/index.js';
+import Resume from './Components/Resume/index.js';
+import Contact from './Components/Contact/index.js';
+import Testimonials from './Components/Testimonials/index.js';
+import Portfolio from './Components/Portfolio/index.js';
 
 class App extends Component {
 
