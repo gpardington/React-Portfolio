@@ -7,18 +7,17 @@ class Portfolio extends Component {
   }
 
   render() {
-
     if(this.props.data){
-      var projects = this.props.data.projects.map((projects) => {
-        var projectImage = '../../../public/images/portfolio/'+ projects.image;
+      var projects = this.props.data.projects.map((projects, index) => {
+        console.log('The INDEX is: ', index);
         return <div key={projects.title} className="columns portfolio-item">
-           <div className="item-wrap">
+            <div className="item-wrap">
             <a target="_blank" href={projects.url} title={projects.title}>
-               <img alt={projects.title} src={this.state.Pictures[0].picture} />
-               <div className="overlay">
+                <img alt={projects.title} src={this.state.Pictures[index].picture} />
+                <div className="overlay">
                   <div className="portfolio-item-meta">
-                 <h5>{projects.title}</h5>
-                     <p>{projects.category}</p>
+                  <h5>{projects.title}</h5>
+                      <p>{projects.category}</p>
                   </div>
                 </div>
               <div className="link-icon"><i className="fa fa-link"></i></div>
@@ -27,7 +26,7 @@ class Portfolio extends Component {
         </div>
       })
     }
-
+    
     return (
       <section id="portfolio">
 
