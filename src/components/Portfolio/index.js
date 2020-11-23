@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Pictures from '../../Pictures/index';
+import './style.css';
 
 class Portfolio extends Component {
   state = {
@@ -13,7 +14,7 @@ class Portfolio extends Component {
         return <div key={projects.title} className="columns portfolio-item">
             <div className="item-wrap">
             <a target="_blank" href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={this.state.Pictures[index].picture} />
+                <img className="project-pics" alt={projects.title} src={this.state.Pictures[index].picture} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                   <h5>{projects.title}</h5>

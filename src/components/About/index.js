@@ -29,16 +29,15 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span>
-						   <span>{city} {state}, {zip}</span>
-                  <br />
+						   <span>{name}</span><br />
+						   <span>{city} {state}, {zip}</span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
                </div>
                <div className="columns download">
                   <p>
-                     <a target="_blank" href="https://github.com/gpardington/React-Portfolio/blob/main/public/images/GPardResumeOct2020.pdf" className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a target="_blank" href="https://docs.google.com/document/d/1GMQcl9sr2O5JpKcrxdgPWsIMgCRBsJwTK4qmMYbyCdw/view" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>

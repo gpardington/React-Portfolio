@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Deployed Link](#deployed-link)
 - [Description](#description)
+- [Demo](#demo)
 - [Installation](#installation)
 - [Future Enhancements](#future-enhancements)
 - [Credits](#Credits)
@@ -18,6 +19,9 @@ https://gpardington.github.io/React-Portfolio/
 
 My new, revamped web development portfolio made using [React](https://reactjs.org/). Thank you to [Tim Baker](https://github.com/tbakerx/react-resume-template) for the awesome template that helped me get started. Altered lots of styling and all of the content. 
 
+## Demo
+
+![Demo](public/images/demo.gif?raw=true)
 
 ## Installation
 
