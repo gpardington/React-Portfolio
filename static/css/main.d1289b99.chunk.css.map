@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Portfolio/style.css"],"names":[],"mappings":"AAAA,cACI,cAAe,CACf,YACJ","file":"main.d1289b99.chunk.css","sourcesContent":[".project-pics {\n    max-width: 100%;\n    height: 130px;\n}"]}
