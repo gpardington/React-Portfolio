@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1289b99.chunk.css",
-    "main.js": "/static/js/main.154e20a8.chunk.js",
-    "main.js.map": "/static/js/main.154e20a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a50da5ff.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a50da5ff.js.map",
-    "static/js/2.6d079d05.chunk.js": "/static/js/2.6d079d05.chunk.js",
-    "static/js/2.6d079d05.chunk.js.map": "/static/js/2.6d079d05.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.d1289b99.chunk.css.map": "/static/css/main.d1289b99.chunk.css.map",
-    "static/js/2.6d079d05.chunk.js.LICENSE.txt": "/static/js/2.6d079d05.chunk.js.LICENSE.txt",
-    "static/media/Budget-Tracker-Screenshot.ed11dcd7.png": "/static/media/Budget-Tracker-Screenshot.ed11dcd7.png",
-    "static/media/Employee-Directory-Screenshot.e00a7364.png": "/static/media/Employee-Directory-Screenshot.e00a7364.png",
-    "static/media/Fitness-Tracker-Screenshot.7a17fb69.png": "/static/media/Fitness-Tracker-Screenshot.7a17fb69.png",
-    "static/media/Near-Beer-Screenshot.a88d01f5.png": "/static/media/Near-Beer-Screenshot.a88d01f5.png",
-    "static/media/Team-Profile-Generator.a1e7d368.png": "/static/media/Team-Profile-Generator.a1e7d368.png",
-    "static/media/WatchThis.c9b7af5e.png": "/static/media/WatchThis.c9b7af5e.png",
-    "static/media/Weather-Dashboard-Screenshot.7f257855.png": "/static/media/Weather-Dashboard-Screenshot.7f257855.png"
+    "main.css": "/React-Portfolio/static/css/main.d1289b99.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.cd1c017c.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.cd1c017c.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0298b166.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0298b166.js.map",
+    "static/js/2.6d079d05.chunk.js": "/React-Portfolio/static/js/2.6d079d05.chunk.js",
+    "static/js/2.6d079d05.chunk.js.map": "/React-Portfolio/static/js/2.6d079d05.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.d1289b99.chunk.css.map": "/React-Portfolio/static/css/main.d1289b99.chunk.css.map",
+    "static/js/2.6d079d05.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.6d079d05.chunk.js.LICENSE.txt",
+    "static/media/Budget-Tracker-Screenshot.ed11dcd7.png": "/React-Portfolio/static/media/Budget-Tracker-Screenshot.ed11dcd7.png",
+    "static/media/Employee-Directory-Screenshot.e00a7364.png": "/React-Portfolio/static/media/Employee-Directory-Screenshot.e00a7364.png",
+    "static/media/Fitness-Tracker-Screenshot.7a17fb69.png": "/React-Portfolio/static/media/Fitness-Tracker-Screenshot.7a17fb69.png",
+    "static/media/Near-Beer-Screenshot.a88d01f5.png": "/React-Portfolio/static/media/Near-Beer-Screenshot.a88d01f5.png",
+    "static/media/Team-Profile-Generator.a1e7d368.png": "/React-Portfolio/static/media/Team-Profile-Generator.a1e7d368.png",
+    "static/media/WatchThis.c9b7af5e.png": "/React-Portfolio/static/media/WatchThis.c9b7af5e.png",
+    "static/media/Weather-Dashboard-Screenshot.7f257855.png": "/React-Portfolio/static/media/Weather-Dashboard-Screenshot.7f257855.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a50da5ff.js",
+    "static/js/runtime-main.0298b166.js",
     "static/js/2.6d079d05.chunk.js",
     "static/css/main.d1289b99.chunk.css",
-    "static/js/main.154e20a8.chunk.js"
+    "static/js/main.cd1c017c.chunk.js"
   ]
 }
